@@ -1,2 +1,5 @@
 # Power BI datasets
 /powerbi/datasets
+
+# Notebook datasets
+/notebooks/datasets/tiktok_google_play_reviews.csv
